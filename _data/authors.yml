@@ -1,0 +1,37 @@
+# /_data/authors.yml
+
+Florian Heigwer:
+  name   : "Dr. Florian Heigwer"
+  avatar : "/assets/images/portrait.jpg"
+  bio    : "This is my research"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: 'http://www.e-crisp.org/E-CRISP/'
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/FlorianHeigwer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fheigwer"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/florian_heigwer/"
+
+Jana Heigwer:
+  name   : "Dr. Jana Heigwer"
+  avatar : "/assets/images/portrait.jpg"
+  bio    : "This is my research"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/FlorianHeigwer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fheigwer"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/florian_heigwer/"
