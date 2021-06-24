@@ -31,14 +31,12 @@ subtitle: "Project: Give Nature a Chance"
 
 #imagery
 teaser: /assets/images/IMG_2040.jpeg
-
 logo: "/assets/logo/logo-1.png"
-
-
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 #permalink: /:categories/:title/
 paginate: 4 # amount of posts to show
