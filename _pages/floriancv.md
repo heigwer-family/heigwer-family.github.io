@@ -13,7 +13,7 @@ _a more personal description can be found [here](/about/)_
 
 <div style="background-color:rgba(40, 40, 40, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
 
-In my research I aim to understand gene function in health and disease. To this end, I work on the crossroads of high-throughput molecular biology and computational biology to systematically map genes to their function in different biological contexts.  
+In my research I aim to understand gene function in health and disease. To this end, I work on the crossroads of high-throughput molecular biology and computational biology to systematically map genes to their function in different biological contexts.
 
 </div>
 <br />
